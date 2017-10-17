@@ -9,7 +9,7 @@ categories:
 - Front-End
 - Angular
 ---
-이 장에서는 Angular 및 관련 라이브러리 설치와 기본 환경설정에 대해 알아본다
+이 장에서는 Angular 및 관련 라이브러리 설치와 기본 환경설정에 대해 알아본다...
 
 ## Requirements
 * NodeJS
@@ -21,14 +21,14 @@ categories:
 ## 라이브러리 설치하기
 
 ### Font-Awesome 설치하기
-{% codeblock lang:Bash %}
+{% codeblock Terminal lang:Bash %}
 npm install --save font-awesome angular-font-awesome
 {% endcodeblock %}
 
 app.module.ts
 
 
-{% codeblock lang:TypeScript%}
+{% codeblock app.module.ts lang:TypeScript%}
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
