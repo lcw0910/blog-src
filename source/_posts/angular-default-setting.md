@@ -6,6 +6,7 @@ tags:
 - angular
 - typescript
 categories:
+- Development
 - Front-End
 - Angular
 ---
