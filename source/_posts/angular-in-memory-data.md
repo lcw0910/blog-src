@@ -13,7 +13,11 @@ categories:
 
 ## typicode/json-server (https://github.com/typicode/json-server)
 
+## https://jsonplaceholder.typicode.com/
+
 ## express-nedb-rest (https://www.npmjs.com/package/express-nedb-rest)
+
+## https://reqres.in/
 
 Angular2+ 를 사용한다면...
 ## angular/in-memory-web-api (https://github.com/angular/in-memory-web-api)
